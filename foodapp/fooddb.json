@@ -1,0 +1,52 @@
+{
+  "fooditems": [
+    {
+      "title": "Paneer",
+      "ingredients": "Paneer",
+      "time": "06:32",
+      "image": "https://product-assets.faasos.io/production/product/image_1618581202108_image_1603542499176_Jumbo%20Paneer%20Chole%20Wrap%20%2B%20Jumbo%20Falafel%20Salsa%20Wrap.jpg",
+      "instructions": "stay sage",
+      "id": 7
+    },
+    {
+      "title": "Biryani",
+      "ingredients": "",
+      "time": "06:32",
+      "image": "https://product-assets.faasos.io/production/product/image_1618580131789_image_1618219032186_Fab%20%26%20Smokey%20Veg%20Combo%201%20Masala%20Paneer%20tikka%2B%201%20Jumbo%20Falafel%20Salsa%20Wrap.jpg",
+      "instructions": "stay sage",
+      "id": 8
+    },
+    {
+      "title": "Dosha",
+      "ingredients": "",
+      "time": "21:03",
+      "image": "https://product-assets.faasos.io/production/product/image_1618581269484_image_1618267295019_Mexican%20Potato%20Salsa%20%2B%20Makhni%20Falafel%20Wrap.jpg",
+      "instructions": "",
+      "id": 9
+    },
+    {
+      "title": "Paneer Chilli",
+      "ingredients": "Paneer",
+      "time": "21:03",
+      "image": "",
+      "instructions": "https://product-assets.faasos.io/production/product/image_1618581525548_image_1618218769125_Fab%20%26%20Loaded%20Non%20Veg%20Combo%201%20BBQ%20Chicken%20Overload%20Wrap%20%2B%201%20American%20Smokey%20Sausage%20Wrap.jpg",
+      "id": 10
+    },
+    {
+      "title": "",
+      "ingredients": "",
+      "time": "",
+      "image": "",
+      "instructions": "",
+      "id": 11
+    },
+    {
+      "title": "",
+      "ingredients": "",
+      "time": "",
+      "image": "",
+      "instructions": "",
+      "id": 12
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+.container{
+    width: 80%;
+    display: flex;
+    margin: 100px auto;
+    justify-content: space-between;
+}
+.inputbox{
+    height: 50px;
+    width: 97%;
+    margin-top: 2%;
+    background-color: white;
+    border-radius: 3px;
+
+}
+.showfood{
+    height: 300px;
+    width: 50%;
+    padding: 10px;
+    background-color: turquoise;
+    border: 1px solid blueviolet;
+    overflow-y: scroll;
+}
+
+.foodinfo{
+    width: 70%;
+    margin: auto;
+    height: 350px;
+    background-color: #355a0b;
+    text-align: center;
+}
+.submitbtn{
+    height: 50px;
+    width: 80%;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 15px;
+    margin-left: 27px;
+}
+.list{
+    display: flex;
+
+}
+.list>p{
+    width: 40%;
+}
+.list>p:nth-child(2){
+    margin-left: 200px;
+}
+.image{
+    height: 200px;
+    width: 100%;
+}
